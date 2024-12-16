@@ -81,7 +81,7 @@ The project is built with **React.js** and leverages **Redux Toolkit** for state
 
 ```bash
 git clone https://github.com/akshay030/Todo-ReduxToolKit.git
-cd todo-manager
+cd Todo-ReduxToolKit
 ```
 
 ### **Install dependencies**
